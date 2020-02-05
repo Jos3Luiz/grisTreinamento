@@ -1,0 +1,25 @@
+#sql
+#primary key diz q a chave eh unica
+create table users (
+	id  int(11) not null PRIMARY KEY AUTO_INCREMENT,
+	username varchar(40) not null,
+	password varchar(100) not null,
+	email varchar(100) not null
+	
+);
+
+
+create table posts (
+	id  int(11) not null PRIMARY KEY AUTO_INCREMENT,
+	poster varchar(40) not null,
+	titulo varchar(100) not null,
+	conteudo varchar(600) not null,
+	date int(8) not null,
+	likes int(11) not null
+
+);
+
+
+
+
+

