@@ -37,7 +37,11 @@
 			$likes=0;
 			$sql="insert into posts (poster,titulo,conteudo,date,likes) VALUES ('$username','$titulo','$conteudo','$agora','$likes');";
 			$result= mysqli_query($conn,$sql);
-			
+			if ($result===False)
+        		{
+                		echo "<br>Error running query: " . mysqli_error($conn)."<br>";
+        		}
+
 			echo "Postado com sucesso";
 
 	

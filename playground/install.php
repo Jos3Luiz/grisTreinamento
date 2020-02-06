@@ -54,7 +54,7 @@ $sql = "create table posts (
 	id  int(11) not null PRIMARY KEY AUTO_INCREMENT,
 	poster varchar(40) not null,
 	titulo varchar(100) not null,
-	conteudo varchar(600) not null,
+	conteudo varchar(6000) not null,
 	date int(8) not null,
 	likes int(11) not null
 
