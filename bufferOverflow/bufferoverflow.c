@@ -8,7 +8,7 @@ void getShell(){
 
 int main(int argc, char** argv)
 {	
-	char buffer[16];
+	char buffer[128];
 	if (argc <2){
 		printf("uso: ./<programa> <nome>\n");
 		return 1;
